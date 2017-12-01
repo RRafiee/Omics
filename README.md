@@ -8,20 +8,22 @@ http://co.bmc.lu.se/gobo/
 http://bcgenex.centregauducheau.fr/BC-GEM/GEM-Accueil.php?js=1
 ## 4) RecurrenceOnline (2012)
 http://www.recurrenceonline.com/
-## 5) KMPlot (2013)
+## 5) TMA Navigator (2013)
+http://www.tmanavigator.org/
+## 6) KMPlot (2013)
 http://kmplot.com/analysis/
-## 6) Cutoff Finder (2013)
+## 7) Cutoff Finder (2013)
 http://molpath.charite.de/cutoff/
-## 7) PROGgeneV2 (2013)
+## 8) PROGgeneV2 (2013)
 http://watson.compbio.iupui.edu/chirayu/proggene/database/index.php
-## 8) SurvExpress (2013)
+## 9) SurvExpress (2013)
 http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp
-## 9) bioportal (2013)
+## 10) bioportal (2013)
 A portal containing 150 cancer studies:  
 http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
-## 10) Tumor Portal (2014)
+## 11) Tumor Portal (2014)
 http://dev.tumorportal.org/charts/clinical
-## 11) MIMIC - MInimal Methylation Classifier (2017)
+## 12) MIMIC - MInimal Methylation Classifier (2017)
 http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 
 
