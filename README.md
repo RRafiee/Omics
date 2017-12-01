@@ -1,4 +1,4 @@
-# Important Omics Tools which you need to know in Bioinformatics
+# Important 'Omics' tools which you may need to know when doing bioinformatics
 
 ## 1) PrognoScan
 ## 2) GOBO
