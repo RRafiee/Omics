@@ -21,6 +21,7 @@ A portal containing 150 cancer studies:
 http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
 ## 10) Tumor Portal (2014)
 http://dev.tumorportal.org/charts/clinical
-
+## 11) MIMIC - MInimal Methylation Classifier (2017)
+http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 
 
