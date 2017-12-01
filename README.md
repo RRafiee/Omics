@@ -10,12 +10,10 @@
 ## 8) SurvExpress
 ## 9) bioportal
 A portal containing 150 cancer studies:  
-http://www.cbioportal.org/
-
-http://www.cbioportal.org/cgds_r.jsp
+http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
 
 ## 10) Tumor Portal
-
+http://dev.tumorportal.org/charts/clinical
 
 
 
