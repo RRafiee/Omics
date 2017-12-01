@@ -1,4 +1,4 @@
-# Important 'Omics' tools which you may need to know when doing bioinformatics (from 2009)
+# Web-based 'Omics' tools which you may need to know when doing bioinformatics (from 2009)
 
 ## 1) PrognoScan (2009)
 http://www.abren.net/PrognoScan/
