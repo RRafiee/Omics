@@ -6,8 +6,9 @@
 ## 4) RecurrenceOnline
 ## 5) KMPlot
 ## 6) Cutoff Finder
-## 7) PROGgeneV2
 
+## 7) PROGgeneV2
+http://watson.compbio.iupui.edu/chirayu/proggene/database/index.php
 ## 8) SurvExpress
 http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp
 ## 9) bioportal
