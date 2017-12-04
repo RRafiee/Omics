@@ -3,7 +3,7 @@
 ## 1) PrognoScan (2009)
 http://www.abren.net/PrognoScan/
 
-Mining the link between gene expression and patient progonsis such as overall survival (OS) and disease free survival (DFS) across a large collection of publicly available cancer microarray datasets.
+Exploring the relation/link between gene expression and patient progonsis such as overall survival (OS) and disease free survival (DFS) across a large collection of publicly available cancer microarray datasets.
 
 ## 2) GOBO (2011)
 http://co.bmc.lu.se/gobo/
