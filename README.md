@@ -5,7 +5,7 @@ http://www.abren.net/PrognoScan/
 
 Exploring the relation/link between gene expression and patient progonsis such as overall survival (OS) and disease free survival (DFS) across a large collection of publicly available cancer microarray datasets.
  
-This platform evaluates potential tumor markers and therapeutic targets.
+This platform provides a database including a large collection of publically available cancer mircroarray dataset with clinical annotation as well as a tool for evaluating the biological relationship between gene expression and prognosis.
 
 ------------------------------------------------------------------------------
 
