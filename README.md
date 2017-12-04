@@ -7,7 +7,7 @@ Exploring the relation/link between gene expression and patient progonsis such a
  
 This platform provides a database including a large collection of publically available cancer mircroarray dataset with clinical annotation as well as a tool for evaluating the biological relationship between gene expression and prognosis.
 
-------------------------------------------------------------------------------
+------------------------------------
 
 ## 2) GOBO (2011)
 http://co.bmc.lu.se/gobo/
