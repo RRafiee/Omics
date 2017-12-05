@@ -11,6 +11,11 @@ This platform provides a database including a large collection of publically ava
 
 ## 2) GOBO (2011)
 http://co.bmc.lu.se/gobo/
+
+Assessment of gene expression, identification of co-expressed genes and association with outcome for single genes, gene sets or gene signatures in an 1881-sample breast cancer data set.
+
+------------------------------------
+
 ## 3) bc-GeneExMiner (2011)
 http://bcgenex.centregauducheau.fr/BC-GEM/GEM-Accueil.php?js=1
 ## 4) RecurrenceOnline (2012)
