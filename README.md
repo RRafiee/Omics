@@ -18,6 +18,12 @@ Assessment of gene expression, identification of co-expressed genes and associat
 
 ## 3) bc-GeneExMiner (2011)
 http://bcgenex.centregauducheau.fr/BC-GEM/GEM-Accueil.php?js=1
+
+breast cancer Gene-Expression Miner v4.0 is a statistical analysis and mining tool with the following purposes: 
+"expression", "prognosis" and "correlation" 
+
+------------------------------------
+
 ## 4) RecurrenceOnline (2012)
 http://www.recurrenceonline.com/
 ## 5) TMA Navigator (2013)
