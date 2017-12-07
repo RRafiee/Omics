@@ -37,7 +37,7 @@ response to targeted therapy [HER2 status]
 ## 5) TMA Navigator (2013)
 http://www.tmanavigator.org/
 
-TMA Navigator is a system for analysing tissue microarray (TMA) data. Several tools are available for data exploration, network inference and survival analysis. 
+TMA Navigator is a system for analysing tissue microarray (TMA) data. There are several tools available for data exploration, network inference and survival analysis. 
 
 Example datasets demonstrate the TMA Navigator workflow without having to upload one's own data:
 
@@ -47,18 +47,40 @@ Breast Cancer 1 (AQUA): 128 breast cancer patients, 9 proteins, Breast Cancer 2 
 
 ## 6) KMPlot (2013)
 http://kmplot.com/analysis/
+
+The Kaplan Meier plotter is capable to assess the effect of 54,675 genes on survival using 10,461 cancer samples. These include 5,143 breast, 1,816 ovarian, 2,437 lung and 1,065 gastric cancer patients with a mean follow-up of 69 / 40 / 49 / 33 months. Primary purpose of the tool is a meta-analysis based biomarker assessment.
+
+------------------------------------
+
 ## 7) Cutoff Finder (2013)
 http://molpath.charite.de/cutoff/
+
+------------------------------------
+
 ## 8) PROGgeneV2 (2013)
 http://watson.compbio.iupui.edu/chirayu/proggene/database/index.php
+
+------------------------------------
+
 ## 9) SurvExpress (2013)
 http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp
+
+------------------------------------
+
 ## 10) bioportal (2013)
 A portal containing 150 cancer studies:  
 http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
+
+------------------------------------
+
 ## 11) Tumor Portal (2014)
 http://dev.tumorportal.org/charts/clinical
+
+------------------------------------
+
 ## 12) MIMIC - MInimal Methylation Classifier (2017)
 http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
+
+------------------------------------
 
 
