@@ -41,10 +41,7 @@ TMA Navigator is a system for analysing tissue microarray (TMA) data. Several to
 
 Example datasets demonstrate the TMA Navigator workflow without having to upload one's own data:
 
-Breast Cancer 1 (AQUA): 128 breast cancer patients, 9 proteins
-Breast Cancer 2 (AQUA): 92 breast cancer patients, 16 proteins
-Breast Cancer 3 (IHC, 5 levels): 122 breast cancer patients, 4 proteins
-Breast Cancer 3 (IHC quickscore): 122 breast cancer patients, 4 proteins
+Breast Cancer 1 (AQUA): 128 breast cancer patients, 9 proteins, Breast Cancer 2 (AQUA): 92 breast cancer patients, 16 proteins, Breast Cancer 3 (IHC, 5 levels): 122 breast cancer patients, 4 proteins, Breast Cancer 3 (IHC quickscore): 122 breast cancer patients, 4 proteins
 
 ------------------------------------
 
