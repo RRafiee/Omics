@@ -55,6 +55,8 @@ The Kaplan Meier plotter is capable to assess the effect of 54,675 genes on surv
 ## 7) Cutoff Finder (2013)
 http://molpath.charite.de/cutoff/
 
+Cutoff Finder is a web-based application for the determination of cutoff points in molecular data. Often, molecular data such as gene expression or protein expression data are represented by continuous or at least ordinal variables. In order to translate these variables into a clinical decision, it is necessary to determine a cutoff point and to stratify patients into two groups, each of which requiring a different kind of treatment. Cutoff Finder offers a multitude of methods for cutoff determination and plots.
+
 ------------------------------------
 
 ## 8) PROGgeneV2 (2013)
