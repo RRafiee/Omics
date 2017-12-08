@@ -62,6 +62,8 @@ Cutoff Finder is a web-based application for the determination of cutoff points 
 ## 8) PROGgeneV2 (2013)
 http://watson.compbio.iupui.edu/chirayu/proggene/database/index.php
 
+PROGgeneV2 has several advancements over its predecessor. One important feature is enabling study of prognostic implications of gene-gene expression ratio. they have also added the capability to upload custom datasets. Users can upload their own gene expression datasets to the tool and perform survival analysis on genes of interest. 
+
 ------------------------------------
 
 ## 9) SurvExpress (2013)
