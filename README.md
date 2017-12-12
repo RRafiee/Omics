@@ -69,6 +69,8 @@ PROGgeneV2 has several advancements over its predecessor. One important feature 
 ## 9) SurvExpress (2013)
 http://bioinformatica.mty.itesm.mx:8080/Biomatec/SurvivaX.jsp
 
+A cancer-wide gene expression database with clinical outcomes and a web-based tool that provides survival analysis and risk assessment of cancer datasets. The main input of SurvExpress is only the biomarker gene list. We generated a cancer database collecting more than 20,000 samples and 130 datasets with censored clinical information covering tumors over 20 tissues.
+
 ------------------------------------
 
 ## 10) bioportal (2013)
@@ -79,6 +81,7 @@ http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
 
 ## 11) Tumor Portal (2014)
 http://dev.tumorportal.org/charts/clinical
+
 
 ------------------------------------
 
