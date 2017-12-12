@@ -82,7 +82,7 @@ http://www.cbioportal.org/, http://www.cbioportal.org/cgds_r.jsp
 ## 11) Tumor Portal (2014)
 http://dev.tumorportal.org/charts/clinical
 
-The site includes graphical displays of the mutations in each of the 18,388 genes studied in this paper: Discovery and saturation analysis of cancer genes across 21 tumour types
+The site includes graphical displays of the mutations in each of the 18,388 genes studied in this paper: "Discovery and saturation analysis of cancer genes across 21 tumour types". The site also includes tables of mutational data for each significant gene and Q–Q plots for each statistical test.
 
 ------------------------------------
 
