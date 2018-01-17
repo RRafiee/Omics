@@ -87,7 +87,7 @@ The site includes graphical displays of the mutations in each of the 18,388 gene
 ------------------------------------
 
 ## 12) MIMIC - MInimal Methylation Classifier (2017) - 
-# Ask your network administrator to open the port 3838 in your firewall in case your browser can't open the landing page 
+### Ask your network administrator to open the port 3838 in your firewall in case your browser can't open the landing page 
 http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 
 ------------------------------------
