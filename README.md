@@ -91,7 +91,7 @@ The site includes graphical displays of the mutations in each of the 18,388 gene
 http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 
 ## 13) wANNOVAR
-### ANNOVAR is a rapid, efficient tool to annotate functional consequences of genetic variation from high-throughput sequencing data. wANNOVAR provides easy and intuitive web-based access to the most popular functionalities of the ANNOVAR software
+ANNOVAR is a rapid, efficient tool to annotate functional consequences of genetic variation from high-throughput sequencing data. wANNOVAR provides easy and intuitive web-based access to the most popular functionalities of the ANNOVAR software
 
 http://wannovar.wglab.org/
 
