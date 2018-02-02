@@ -90,6 +90,11 @@ The site includes graphical displays of the mutations in each of the 18,388 gene
 ### Ask your network administrator to open the port 3838 in your firewall in case that your browser can't open the landing page 
 http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 
+## 13) wANNOVAR
+### ANNOVAR is a rapid, efficient tool to annotate functional consequences of genetic variation from high-throughput sequencing data. wANNOVAR provides easy and intuitive web-based access to the most popular functionalities of the ANNOVAR software
+
+http://wannovar.wglab.org/
+
 ------------------------------------
 # Web-based Clustering Software 
 
@@ -97,3 +102,5 @@ http://medulloblastomadiagnostics.ncl.ac.uk:3838/landing/
 This web tool allows users to upload their own data and easily create Principal Component Analysis (PCA) plots and heatmaps. Data can be uploaded as a file or by copy-pasteing it to the text box.
 
 https://biit.cs.ut.ee/clustvis/
+
+
