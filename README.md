@@ -102,5 +102,3 @@ http://wannovar.wglab.org/
 This web tool allows users to upload their own data and easily create Principal Component Analysis (PCA) plots and heatmaps. Data can be uploaded as a file or by copy-pasteing it to the text box.
 
 https://biit.cs.ut.ee/clustvis/
-
-
