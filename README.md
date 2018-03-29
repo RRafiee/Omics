@@ -104,7 +104,7 @@ This web tool allows users to upload their own data and easily create Principal 
 https://biit.cs.ut.ee/clustvis/
 
 ------------------------------------
-# Number of software analysis for gene expression microarray 
+# Number of software analyses for gene expression microarray data
 https://www.arabidopsis.org/portals/expression/microarray/microarraySoftwareV2.jsp
 
 
