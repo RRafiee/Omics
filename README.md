@@ -95,9 +95,9 @@ ANNOVAR is a rapid, efficient tool to annotate functional consequences of geneti
 
 http://wannovar.wglab.org/
 
-## 14) 
+## 14) DeSigN 
 
-DeSigN: connecting gene expression with therapeutics for drug repurposing and development
+Connecting gene expression with therapeutics for drug repurposing and development
 This web-based tool aims to predict drug efficacy against cancer cell lines using gene expression patterns. The algorithm correlates phenotype-specific gene signatures derived from differentially expressed genes with pre-defined gene expression profiles associated with drug response data (IC50) from 140 drugs
 
 http://design.cancerresearch.my/
