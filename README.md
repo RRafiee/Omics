@@ -114,5 +114,5 @@ https://biit.cs.ut.ee/clustvis/
 # Number of software analyses for gene expression microarray data
 https://www.arabidopsis.org/portals/expression/microarray/microarraySoftwareV2.jsp
 
-
-
+## Next-Generation Clustered Heat Maps (NG-CHMs) covering multiple tumor types and multiple data types profiled by The Cancer Genome Atlas (TCGA) Project.
+http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal/
