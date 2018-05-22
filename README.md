@@ -118,5 +118,7 @@ https://www.arabidopsis.org/portals/expression/microarray/microarraySoftwareV2.j
 ## 17) Next-Generation Clustered Heat Maps (NG-CHMs) covering multiple tumor types and multiple data types profiled by The Cancer Genome Atlas (TCGA) Project.
 http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal/
 
-## 18) Interactive portal for immuno-oncology research
+------------------------------------
+## 18) iAtlas: Interactive portal for immuno-oncology research
+iAtlas is an interactive web-based platform and set of analytic tools for studying interactions between tumors and the immune microenvironment.
 https://www.cri-iatlas.org/
