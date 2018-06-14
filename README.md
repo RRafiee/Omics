@@ -1,7 +1,7 @@
 # Web-based 'Omics' tools which you may need to know when doing bioinformatics (from 2009)
 
 ## 1) PrognoScan (2009)
-http://www.abren.net/PrognoScan/
+The link is currently inactive (http://www.abren.net/PrognoScan/).
 
 Exploring the relation/link between gene expression and patient progonsis such as overall survival (OS) and disease free survival (DFS) across a large collection of publicly available cancer microarray datasets.
  
