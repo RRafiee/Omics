@@ -2,6 +2,7 @@
 
 ## 1) PrognoScan (2009)
 http://dna00.bio.kyutech.ac.jp/PrognoScan/
+https://bio.tools/PrognoScan
 
 Exploring the relation/link between gene expression and patient progonsis such as overall survival (OS) and disease free survival (DFS) across a large collection of publicly available cancer microarray datasets.
  
