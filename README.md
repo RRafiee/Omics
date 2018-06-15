@@ -7,7 +7,8 @@ Exploring the relation/link between gene expression and patient progonsis such a
  
 This platform provides a database including a large collection of publically available cancer mircroarray dataset with clinical annotation as well as a tool for evaluating the biological relationship between gene expression and prognosis.
 
-## https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-2-18
+Read the paper from this link: "PrognoScan: a new database for meta-analysis of the prognostic value of genes", https://bmcmedgenomics.biomedcentral.com/articles/10.1186/1755-8794-2-18
+
 ------------------------------------
 
 ## 2) GOBO (2011)
