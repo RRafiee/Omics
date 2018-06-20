@@ -32,9 +32,7 @@ breast cancer Gene-Expression Miner v4.0 is a statistical analysis and mining to
 http://www.recurrenceonline.com/
 
 Recurrence Online is an online diagnostic service capable to predict:
-survival [risk of relapse and recurrence score],
-response to hormonal treatment [ER status] and
-response to targeted therapy [HER2 status]
+survival [risk of relapse and recurrence score], response to hormonal treatment [ER status] and response to targeted therapy [HER2 status]
 
 ------------------------------------
 
