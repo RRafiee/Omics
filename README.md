@@ -125,3 +125,11 @@ http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal/
 iAtlas is an interactive web-based platform and set of analytic tools for studying interactions between tumors and the immune microenvironment.
 
 https://www.cri-iatlas.org/
+
+## 19) TCGA Batch Effects Tool
+
+This website is designed to help assess, diagnose and correct for any batch effects in TCGA data. It first allows the user to assess and quantify the presence of any batch effects via algorithms such as Hierarchical Clustering and Principal Component Analysis. The results from these algorithms are presented graphically as both simple and interactive diagrams. If significant batch effects is observed in the data, the user then has the option of downloading data that has been computationally corrected using methods such as Empirical Bayes (aka. ComBat), Median Polish and ANOVA.
+
+Because the samples are processed in batches rather than all at once, the data can be vulnerable to systematic noise such as batch effects (unwanted variation between batches) and trend effects (unwanted variation over time), which can lead to misleading analysis results. 
+
+http://bioinformatics.mdanderson.org/main/TCGABatchEffects:Overview
