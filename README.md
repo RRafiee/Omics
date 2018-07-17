@@ -133,3 +133,8 @@ This website is designed to help assess, diagnose and correct for any batch effe
 Because the samples are processed in batches rather than all at once, the data can be vulnerable to systematic noise such as batch effects (unwanted variation between batches) and trend effects (unwanted variation over time), which can lead to misleading analysis results. 
 
 http://bioinformatics.mdanderson.org/main/TCGABatchEffects:Overview
+
+More software and bioinformatics packages from this research group:
+
+http://bioinformatics.mdanderson.org/main/Software_and_Services_All
+
