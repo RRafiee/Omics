@@ -139,3 +139,10 @@ More software and bioinformatics packages from this research group:
 
 http://bioinformatics.mdanderson.org/main/Software_and_Services_All
 
+
+## 20) Estimation of STromal and Immune cells in MAlignant Tumor tissues using Expression data
+
+ESTIMATE provides researchers with scores for tumor purity, the level of stromal cells present, and the infiltration level of immune cells in tumor tissues based on expression data. This website is designed to view and download stromal, immune, and ESTIMATE scores for each sample across all TCGA (The Cancer Genome Atlas) tumor types and platforms.
+
+http://bioinformatics.mdanderson.org/estimate/
+
