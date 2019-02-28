@@ -146,3 +146,8 @@ ESTIMATE provides researchers with scores for tumor purity, the level of stromal
 
 http://bioinformatics.mdanderson.org/estimate/
 
+## 21) From Visual Exploration to Storytelling and Back Again
+
+CLUE (Capture, Label, Understand, Explain), a model that tightly integrates data exploration and presentation of discoveries.
+
+http://vdl.sci.utah.edu/publications/2016_eurovis_clue/
