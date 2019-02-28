@@ -151,3 +151,4 @@ http://bioinformatics.mdanderson.org/estimate/
 CLUE (Capture, Label, Understand, Explain), a model that tightly integrates data exploration and presentation of discoveries.
 
 http://vdl.sci.utah.edu/publications/2016_eurovis_clue/
+http://vdl.sci.utah.edu/team/lex/
